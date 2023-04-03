@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "641c14add4fb1073325a372a"
+  },
+  "nom": "nom",
+  "material": "material",
+  "preu": {
+    "$numberDecimal": "0.0"
+  },
+  "flori_id": {
+    "$oid": "641c1540d4fb1073325a372b"
+  },
+  "ticket_id": {
+    "$oid": "641c1543d4fb1073325a372c"
+  }
+},{
+  "_id": {
+    "$oid": "6423e3933ae0102f0691fe2b"
+  },
+  "nom": "deco1",
+  "material": "plastic",
+  "preu": 7.900000095367432,
+  "flori_id": {
+    "$oid": "641ae307cbb21a1b9375cdf9"
+  },
+  "ticket_id": ""
+},{
+  "_id": {
+    "$oid": "642aa207e79ad95091daaa52"
+  },
+  "nom": "deco3",
+  "material": "plastic",
+  "preu": 7.900000095367432,
+  "flori_id": {
+    "$oid": "641ae9e089175c45792a031a"
+  },
+  "ticket_id": {
+    "$oid": "642a9ffccaea576294a775d5"
+  }
+}]

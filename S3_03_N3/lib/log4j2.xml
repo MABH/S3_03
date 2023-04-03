@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="trace" packages="dev.termian.tabula.gazella">
+    <Appenders>
+        <Console name="Console">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS}|%-5level|%t|%msg%n"/>
+        </Console>
+        <NoSql name="Mongo4">
+            <MongoDb4 capped="true" collectionSize="104857600"
+                              connection="mongodb://localhost:27017/admin.logs"
+                              disabled="true"
+            />
+        </NoSql>
+    </Appenders>
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="Console"/>
+        </Root>
+        <Logger name="my.package.name" level="DEBUG">
+            <AppenderRef ref="Mongo4"/>
+        </Logger>
+    </Loggers>
+</Configuration>

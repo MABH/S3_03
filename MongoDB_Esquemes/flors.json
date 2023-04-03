@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "641c13c6d4fb1073325a371f"
+  },
+  "nom": "flor",
+  "color": "color",
+  "preu": {
+    "$numberDecimal": "0.0"
+  },
+  "flori_id": {
+    "$oid": "641c1439d4fb1073325a3720"
+  },
+  "ticket_id": {
+    "$oid": "641c143dd4fb1073325a3721"
+  }
+},{
+  "_id": {
+    "$oid": "6423e1af02e10a1e6b1dcd63"
+  },
+  "nom": "flor1",
+  "color": "verd",
+  "preu": 5.599999904632568,
+  "flori_id": {
+    "$oid": "641ae307cbb21a1b9375cdf9"
+  },
+  "ticket_id": {
+    "$oid": "642aa39acaea576294a775d6"
+  }
+},{
+  "_id": {
+    "$oid": "642a9620e79ad95091daaa45"
+  },
+  "nom": "flor3",
+  "color": "verd",
+  "preu": 5.599999904632568,
+  "flori_id": {
+    "$oid": "641ae9e089175c45792a031a"
+  },
+  "ticket_id": {
+    "$oid": "642a9ffccaea576294a775d5"
+  }
+}]

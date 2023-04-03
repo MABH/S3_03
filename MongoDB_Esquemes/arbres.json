@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "641aece578990c3a599e5a9c"
+  },
+  "nom": "arbre",
+  "alçada": {
+    "$numberDecimal": "0.0"
+  },
+  "preu": {
+    "$numberDecimal": "0.0"
+  },
+  "flori_id": {
+    "$oid": "641aed9678990c3a599e5a9d"
+  },
+  "ticket_id": {
+    "$oid": "641afdf178990c3a599e5a9e"
+  }
+},{
+  "_id": {
+    "$oid": "641c3c241d3d745e52715cfd"
+  },
+  "nom": "arbre2",
+  "alçada": 3.4000000953674316,
+  "preu": 2.299999952316284,
+  "flori_id": {
+    "$oid": "641ae307cbb21a1b9375cdf9"
+  },
+  "ticket_id": null
+},{
+  "_id": {
+    "$oid": "642af0ff1dabae0a0eee7e75"
+  },
+  "nom": "arbre3",
+  "alçada": 3.4000000953674316,
+  "preu": 2.299999952316284,
+  "flori_id": {
+    "$oid": "641ae9e089175c45792a031a"
+  },
+  "ticket_id": {
+    "$oid": "642af131d9fb19315cb81eb7"
+  }
+}]

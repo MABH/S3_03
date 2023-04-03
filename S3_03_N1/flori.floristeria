@@ -1,0 +1,24 @@
+Nom: flori
+Arbre - nom: arbre3, alçada: 9.0, preu: 2.0
+
+Flor - nom: flor2, color: color:, preu: 5.0
+
+Flor - nom: flor3, color: color:, preu: 8.0
+
+Decoracio - nom: deco1, material: FUSTA, preu: 8.0
+
+Decoracio - nom: deco2, material: PLASTIC, preu: 5.0
+
+Ticket: 2023-08-20 10:08:54
+
+Arbre - nom: arbre1, alçada: 4.0, preu: 3.0
+
+Decoracio - nom: deco3, material: PLASTIC, preu: 3.0
+
+Ticket: 2023-09-20 10:09:17
+
+Flor - nom: flor1, color: color:, preu: 3.0
+
+Arbre - nom: arbre2, alçada: 1.0, preu: 2.0
+
+
